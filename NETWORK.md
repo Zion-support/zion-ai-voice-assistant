@@ -1,10 +1,16 @@
-# Zion AI Voice Assistant
+# 🌐 Part of the Zion App Network
 
-Voice assistant app.
+**Zion AI Voice Assistant** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio) · [zion-ai-voice-translator](https://github.com/Zion-support/zion-ai-voice-translator) · [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) · [zion-ai-chatbot-builder](https://github.com/Zion-support/zion-ai-chatbot-builder)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Voice Translator](https://github.com/Zion-support/zion-ai-voice-translator)
+- [Voice Agent Studio](https://github.com/Zion-support/voice-agent-studio)
+- [Zion AI Support Copilot](https://github.com/Zion-support/zion-ai-support-copilot)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
